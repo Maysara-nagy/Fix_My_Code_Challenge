@@ -1,6 +1,6 @@
 ###
 #
-#  Sort integer arguments (ascdending) 
+#  Sort integer arguments (ascending) 
 #
 ###
 
